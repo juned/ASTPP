@@ -43,7 +43,7 @@
 
     1. Download ASTPP 
 	cd /usr/src/
-	git clone https://github.com/ASTPP/ASTPP.git
+	git clone https://stash.freeswitch.org/scm/fs/freeswitch.git
     
     2. * Install ASTPP pre-requisite packages using YUM
 	      
